@@ -6,7 +6,7 @@ import * as qwer from "firebase/app";
 // import * as rtyu from "firebase-admin";
 import * as qwerqwer from "pdfjs-dist";
 
-const asdf = [ASdf, qwer, qwer, qwer];
+const asdf = [ASdf, qwer, qwer, qwerqwer];
 
 export default function App({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />;
